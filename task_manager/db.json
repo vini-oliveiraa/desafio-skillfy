@@ -1,0 +1,98 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Reunião com equipe",
+      "description": "Discussão sobre o novo projeto",
+      "priority": "high",
+      "category": "work",
+      "estimated_duration": 60,
+      "deadline": "2025-06-01T20:57",
+      "status": "pending"
+    },
+    {
+      "id": "2",
+      "title": "Iniciar projeto",
+      "description": "Preparar ambiente para o projeto",
+      "priority": "high",
+      "category": "work",
+      "estimated_duration": 60,
+      "deadline": "2025-06-02T15:00:00Z",
+      "status": "done"
+    },
+    {
+      "id": "3",
+      "title": "Organizar agenda",
+      "description": "Organizar meus compromissos",
+      "priority": "low",
+      "category": "personal",
+      "estimated_duration": 60,
+      "deadline": "2025-06-02T15:00:00Z",
+      "status": "done"
+    },
+    {
+      "id": "4",
+      "title": "Teste de Atividade",
+      "description": "desc",
+      "category": "personal",
+      "priority": "medium",
+      "estimated_duration": "10",
+      "deadline": "2025-06-01T11:16",
+      "status": "in_progress"
+    },
+    {
+      "id": "a47d",
+      "title": "Teste de tarefa editado",
+      "description": "teste ",
+      "category": "work",
+      "priority": "high",
+      "estimated_duration": "3",
+      "deadline": "2025-06-10T18:42",
+      "status": "pending"
+    },
+    {
+      "id": "ed62",
+      "title": "Projetizar o front-end 2",
+      "description": "projetizar o front do projeto",
+      "category": "work",
+      "priority": "high",
+      "estimated_duration": "120",
+      "deadline": "2025-06-12T18:48",
+      "status": "in_progress"
+    }
+  ],
+  "suggestions": [
+    {
+      "task_id": 1,
+      "suggested_times": [
+        {
+          "start": "2024-03-20T10:00:00Z",
+          "end": "2024-03-20T11:00:00Z",
+          "score": 0.9
+        },
+        {
+          "start": "2024-03-20T14:00:00Z",
+          "end": "2024-03-20T16:00:00Z",
+          "score": 0.8
+        }
+      ],
+      "id": "ad40"
+    },
+    {
+      "task_id": 2,
+      "suggested_times": [
+        {
+          "start": "2024-03-20T10:00:00Z",
+          "end": "2024-03-20T11:00:00Z",
+          "score": 0.9
+        },
+        {
+          "start": "2024-03-20T14:00:00Z",
+          "end": "2024-03-20T15:00:00Z",
+          "score": 0.8
+        }
+      ],
+      "id": "37a0"
+    }
+  ]
+}
